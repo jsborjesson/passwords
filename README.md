@@ -19,3 +19,7 @@ changed` tab and clicking on the speech bubble that appears to the left of the l
 
 When commenting on a paragraph, put the line note on the **last** line in the paragraph, this is
 because Github will show a snippet of the text _above_ the line when rendering the conversation.
+
+## License
+
+**[CC By 4.0](http://creativecommons.org/licenses/by/4.0/)**
