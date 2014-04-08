@@ -16,3 +16,6 @@ referring to a specific piece of the text, you can create **line notes** by ente
 changed` tab and clicking on the speech bubble that appears to the left of the line when hovering.
 
 ![](https://github.global.ssl.fastly.net/images/modules/commit/commit_comment_tip.gif)
+
+When commenting on a paragraph, put the line note on the **last** line in the paragraph, this is
+because Github will show a snippet of the text _above_ the line when rendering the conversation.
