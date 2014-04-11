@@ -3,6 +3,12 @@
 This is a paper on the weaknesses of password-secured systems, and what we as developers can use
 instead.
 
+## Resources
+
+- [News](https://coursepress.lnu.se/kurs/datavetenskap-sjalvstandigt-arbete-hogskoleexamen/)
+- [Deadlines](https://coursepress.lnu.se/kurs/datavetenskap-sjalvstandigt-arbete-hogskoleexamen/teori/genomforande/)
+- [Structure](https://coursepress.lnu.se/kurs/datavetenskap-sjalvstandigt-arbete-hogskoleexamen/teori/vetenskapligt-skrivande/)
+
 ## Guidelines / Reviewing
 
 **Subject to change**
