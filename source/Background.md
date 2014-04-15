@@ -12,12 +12,9 @@ pretty happy with myself, this process would have taken me more than three times
 
 I then remembered that my mother would have to go through this process as well, but her password
 manager was a notebook. It was her compromise when I argued that she needed unique passwords, but
-she thought password managers were too complicated. Suddenly I weren't feeling so good about being
-able to switch out the passwords on 30 different accounts so quickly.
-
-Since Heartbleed was such a big deal, she was already aware that she needed to change her passwords,
-and didn't complain too much, but I knew that changing her 4 or 5 accounts were going to cause her
-much more pain than it did for me.
+she thought password managers were too complicated. Suddenly I wasn't feeling so good about being
+able to switch out my passwords on 30 different accounts so quickly. I knew that the few accounts
+she needed to change was going to cause her more trouble than all of mine.
 
 I've been interested in computers for as long as I can remember, before I had a password manager I
 made up my own algorithm so I could remember my passwords for all different sites. I've spent a lot
