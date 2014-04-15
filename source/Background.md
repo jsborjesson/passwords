@@ -29,6 +29,6 @@ think about security and that they should install extra software for keeping all
 safe, but they just want to get into their stuff as smoothly as possible, and be confident that
 nobody else will. **Is this really their problem?**
 
-Is passwords as security a necessary evil, or is it just us developers being lazy? Passwords has
+Are passwords as security a necessary evil, or is it just us developers being lazy? Passwords has
 been the default form of security for as long as I've been alive, I think it's time for a more
 sensible default.
