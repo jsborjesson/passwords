@@ -23,11 +23,11 @@ even my grandparents have Facebook, and expecting them go through these procedur
 ridiculous.
 
 Most non technicals will just use the same password everywhere, and it will probably be a bad
-password too (as shown by the leaked password statistics that comes out every time a big site gets
-hacked). We can try to educate people, making them aware that they need to think about security and
-that they should install extra software for keeping all of their passwords safe, but they just want
-to get into their stuff as smoothly as possible, and be confident that nobody else will. **Is this
-really their problem?**
+password (as shown by the leaked password statistics that are exposed every time a big site gets
+hacked<!-- TODO: SOURCE -->). We can try to educate people, making them aware that they need to
+think about security and that they should install extra software for keeping all of their passwords
+safe, but they just want to get into their stuff as smoothly as possible, and be confident that
+nobody else will. **Is this really their problem?**
 
 Is passwords as security a necessary evil, or is it just us developers being lazy? Passwords has
 been the default form of security for as long as I've been alive, I think it's time for a more
