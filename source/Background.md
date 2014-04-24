@@ -1,4 +1,4 @@
-## Background
+## Introduction
 
 At the time of writing, the Heartbleed scandal is just about to blow over.  It didn't have a
 disastrous effect on me. I've been good, I had unique, randomly generated passwords on every site,
@@ -29,6 +29,19 @@ think about security and that they should install extra software for keeping all
 safe, but they just want to get into their stuff as smoothly as possible, and be confident that
 nobody else will. **Is this really their problem?**
 
-Are passwords as security a necessary evil, or is it just us developers being lazy? Passwords has
-been the default form of security for as long as I've been alive, I think it's time for a more
-sensible default.
+## Background
+
+### Purpose
+
+The purpose of this paper is to explore the negative aspects of password based authentication, and
+scratch the surface of its current alternatives. Passwords have been the standard form of
+authentication used on the web for as long as I can remember, is it finally time for them to retire?
+
+### Question
+
+**Should passwords as authentication be deprecated?**
+
+### Previous studies
+
+TODO
+
