@@ -1,10 +1,10 @@
 ## Introduction
 
-At the time of writing, the Heartbleed scandal is just about to blow over.  It didn't have a
-disastrous effect on me. I've been good, I had unique, randomly generated passwords on every site,
-and they were all stored in a password manager with a locally encrypted database. Even if it was
-transfered over a vulnerable connection, the key has never been transfered and just one layer of the
-encryption would have been endangered.
+At the time of writing, the Heartbleed scandal is just about to blow over. Its effects was not
+disastrous for me, though no less than annoying. I had unique, randomly generated passwords on every
+site, and they were all stored in a password manager with a locally encrypted database. Even if it
+was transfered over a vulnerable connection, the key has never been transfered and just one layer of
+the encryption would have been endangered.
 
 Changing out all of my passwords took less than an hour, my password manager made it very simple to
 generate new ones, but I still had to go through the forms on every single website. I was feeling
@@ -16,13 +16,7 @@ she thought password managers were too complicated. Suddenly I wasn't feeling so
 able to switch out my passwords on 30 different accounts so quickly. I knew that the few accounts
 she needed to change was going to cause her more trouble than all of mine.
 
-I've been interested in computers for as long as I can remember, before I had a password manager I
-made up my own algorithm so I could remember my passwords for all different sites. I've spent a lot
-of time thinking about how to solve this problem for **me**, but we're now living in a time where
-even my grandparents have Facebook, and expecting them go through these procedures is just
-ridiculous.
-
-Most non technicals will just use the same password everywhere, and it will probably be a bad
+Most non technical people will use the same password everywhere, and it will probably be a bad
 password (as shown by the leaked password statistics that are exposed every time a big site gets
 hacked<!-- TODO: SOURCE -->). We can try to educate people, making them aware that they need to
 think about security and that they should install extra software for keeping all of their passwords
