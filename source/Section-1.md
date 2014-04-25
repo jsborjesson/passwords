@@ -1,5 +1,7 @@
 # Passwords - subject for deprecation?
 
+_By Jimmy Börjesson (jb222rw)_
+
 ## Introduction
 
 At the time of writing, the Heartbleed scandal is just about to blow over. Its effects was not
