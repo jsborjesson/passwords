@@ -19,8 +19,7 @@ able to switch out my passwords on 30 different accounts so quickly. I knew that
 she needed to change was going to cause her more trouble than all of mine.
 
 Most non technical people will use the same password everywhere, and it will probably be a bad
-password (as shown by the leaked password statistics that are exposed every time a big site gets
-hacked<!-- TODO: SOURCE -->). We can try to educate people, making them aware that they need to
+password[\[1\]][]. We can try to educate people, making them aware that they need to
 think about security and that they should install extra software for keeping all of their passwords
 safe, but they just want to get into their stuff as smoothly as possible, and be confident that
 nobody else will. **Is this really their problem?**
@@ -30,14 +29,24 @@ nobody else will. **Is this really their problem?**
 ### Purpose
 
 The purpose of this paper is to explore the negative aspects of password based authentication, and
-scratch the surface of its current alternatives. Passwords have been the standard form of
+scratch the surface of its possible alternatives. Passwords have been the standard form of
 authentication used on the web for as long as I can remember, is it finally time for them to retire?
 
 ### Question
 
-**Should passwords as authentication be deprecated?**
+**Are passwords an outdated form of authentication?**
 
 ### Previous studies
 
-TODO
+There has been many articles[\[1\]][splashdata][\[2\]][gawker][\[3\]][eset] that measure the type of passwords people
+use, but the general purpose seems to be to educate people to come use better passwords. This paper
+puts the responsibility on the developers instead.
+
+[splashdata]: http://splashdata.com/press/worstpasswords2013.htm
+[gawker]:     http://blogs.wsj.com/digits/2010/12/13/the-top-50-gawker-media-passwords/
+[eset]:       http://blog.eset.se/statistics-about-yahoo-leak-of-450-000-plain-text-accounts/
+
+[\[1\]        http://splashdata.com/press/worstpasswords2013.htm][splashdata]
+[\[2\]        http://blogs.wsj.com/digits/2010/12/13/the-top-50-gawker-media-passwords/][gawker]
+[\[3\]        http://blog.eset.se/statistics-about-yahoo-leak-of-450-000-plain-text-accounts/][eset]
 
