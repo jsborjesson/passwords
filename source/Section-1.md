@@ -1,3 +1,5 @@
+# Passwords - subject for deprecation?
+
 ## Introduction
 
 At the time of writing, the Heartbleed scandal is just about to blow over. Its effects was not
