@@ -23,7 +23,7 @@ she needed to change was going to cause her more trouble than all of mine.
 Most non technical people will use the same password everywhere, and it will probably be a bad
 password[\[1\]][splashdata]. We can try to educate people, making them aware that they need to
 think about security and that they should install extra software for keeping all of their passwords
-safe, but they just want to get into their stuff as smoothly as possible, and be confident that
+safe, but they just want to get into their accounts as smoothly as possible, and be confident that
 nobody else will. **Is this really their problem?**
 
 ## Background
