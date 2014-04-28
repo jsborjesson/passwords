@@ -40,15 +40,28 @@ authentication used on the web for as long as I can remember, is it finally time
 
 ### Previous studies
 
-There has been many articles[\[1\]][splashdata][\[2\]][gawker][\[3\]][eset] that measure the type of passwords people
-use, but the general purpose seems to be to educate people to come use better passwords. This paper
-puts the responsibility on the developers instead.
+There has been many articles[\[1\]][splashdata][\[2\]][gawker][\[3\]][eset] that measure the type of
+passwords people use, but the general purpose seems to be to educate people to come use better
+passwords. This paper puts the responsibility on the developers instead.
+
+Currently the most common solution is OAuth[\[4\]][oauth], but there has been some suggestions of
+other methods as well, like using email as authentication[\[5\]][email_auth]. Of course in the
+future we might have access to more technology (like retina scanners, more accurate facial
+recognition, et cetera), but today there
+does not seem to be an option that is as simple to implement as passwords.
+
+### Sources
 
 [splashdata]: http://splashdata.com/press/worstpasswords2013.htm
 [gawker]:     http://blogs.wsj.com/digits/2010/12/13/the-top-50-gawker-media-passwords/
 [eset]:       http://blog.eset.se/statistics-about-yahoo-leak-of-450-000-plain-text-accounts/
+[oauth]:      http://oauth.net/
+[email_auth]: http://notes.xoxco.com/post/27999787765/is-it-time-for-password-less-login
 
 [\[1\]        http://splashdata.com/press/worstpasswords2013.htm][splashdata]
 [\[2\]        http://blogs.wsj.com/digits/2010/12/13/the-top-50-gawker-media-passwords/][gawker]
 [\[3\]        http://blog.eset.se/statistics-about-yahoo-leak-of-450-000-plain-text-accounts/][eset]
+[\[4\]        http://oauth.net/][oauth]
+[\[5\]        http://notes.xoxco.com/post/27999787765/is-it-time-for-password-less-login][email_auth]
+
 
