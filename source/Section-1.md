@@ -36,7 +36,7 @@ authentication used on the web for as long as I can remember, is it finally time
 
 ### Question
 
-**Are passwords an outdated form of authentication?**
+**Are passwords an outdated form of authentication, and what can take their place?**
 
 ### Previous studies
 
