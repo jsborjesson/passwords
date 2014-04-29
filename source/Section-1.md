@@ -45,11 +45,11 @@ There has been many articles[\[1\]][splashdata][\[2\]][gawker][\[3\]][eset] that
 passwords people use, but the general purpose seems to be to educate people to come use better
 passwords. This paper puts the responsibility on the developers instead.
 
-Currently the most common solution is OAuth[\[4\]][oauth], but there has been some suggestions of
+One common alternative to passwords is OAuth[\[4\]][oauth], but there has been some suggestions of
 other methods as well, like using email as authentication[\[5\]][email_auth]. Of course in the
 future we might have access to more technology (like retina scanners, more accurate facial
-recognition, et cetera), but today there
-does not seem to be an option that is as simple to implement as passwords.
+recognition, et cetera), but today there does not seem to be an option that is as simple to
+implement as passwords.
 
 ### Sources
 
@@ -64,5 +64,3 @@ does not seem to be an option that is as simple to implement as passwords.
 [\[3\]        http://blog.eset.se/statistics-about-yahoo-leak-of-450-000-plain-text-accounts/][eset]
 [\[4\]        http://oauth.net/][oauth]
 [\[5\]        http://notes.xoxco.com/post/27999787765/is-it-time-for-password-less-login][email_auth]
-
-
