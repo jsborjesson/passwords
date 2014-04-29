@@ -15,10 +15,11 @@ generate new ones, but I still had to go through the forms on every single websi
 pretty happy with myself, this process would have taken me more than three times as long a year ago.
 
 I then remembered that my mother would have to go through this process as well, but her password
-manager was a notebook. It was her compromise when I argued that she needed unique passwords, but
-she thought password managers were too complicated. Suddenly I wasn't feeling so good about being
-able to switch out my passwords on 30 different accounts so quickly. I knew that the few accounts
-she needed to change was going to cause her more trouble than all of mine.
+manager was a paper notebook. It was her compromise when I argued that she needed unique passwords,
+but she thought password managers were too complicated. Suddenly I wasn't feeling so good about
+being able to switch out my passwords on 30 different accounts so quickly. I knew that the few
+accounts she needed to change was going to cause her more trouble than all of mine - maybe password
+managers are not the perfect solution to this problem.
 
 Most non technical people will use the same password everywhere, and it will probably be a bad
 password[\[1\]][splashdata]. We can try to educate people, making them aware that they need to
