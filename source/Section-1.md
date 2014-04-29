@@ -29,15 +29,15 @@ nobody else will. **Is this really their problem?**
 
 ## Background
 
+### Question
+
+**Are passwords an outdated form of authentication, and what other technologies can replace them?**
+
 ### Purpose
 
 The purpose of this paper is to explore the negative aspects of password based authentication, and
-scratch the surface of its possible alternatives. Passwords have been the standard form of
+scratch the surface of possible alternatives. Passwords have been the standard form of
 authentication used on the web for as long as I can remember, is it finally time for them to retire?
-
-### Question
-
-**Are passwords an outdated form of authentication, and what can take their place?**
 
 ### Previous studies
 
