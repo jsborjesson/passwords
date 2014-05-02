@@ -1,4 +1,4 @@
-#Passwords - subject for deprecation?
+# Passwords - subject for deprecation?
 
 _By Jimmy Börjesson (jb222rw)_
 
@@ -25,7 +25,8 @@ Many people will use the same password everywhere[\[6\]][paypal_australia], and 
 password[\[1\]][splashdata]. We can try to educate people, making them aware that they need to
 think about security and that they should install extra software for keeping all of their passwords
 safe, but they just want to get into their accounts as smoothly as possible, and be confident that
-nobody else will. **Is this really their problem?**
+nobody else will. Passwords are putting a lot of the responsibility of account security on the user.
+**Is this really their problem?**
 
 ## Background
 
