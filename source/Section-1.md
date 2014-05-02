@@ -36,8 +36,9 @@ nobody else will. **Is this really their problem?**
 ### Purpose
 
 The purpose of this paper is to explore the negative aspects of password based authentication, and
-scratch the surface of possible alternatives. Passwords have been the standard form of
-authentication used on the web for as long as I can remember, is it finally time for them to retire?
+scratch the surface of possible alternatives. Are passwords a good form of authentication? Should we
+keep using passwords as authentication?
+
 
 ### Previous studies
 
