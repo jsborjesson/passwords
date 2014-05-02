@@ -1,4 +1,4 @@
-# Passwords - subject for deprecation?
+#Passwords - subject for deprecation?
 
 _By Jimmy Börjesson (jb222rw)_
 
@@ -31,14 +31,13 @@ nobody else will. **Is this really their problem?**
 
 ### Question
 
-**Are passwords an outdated form of authentication, and what other technologies can replace them?**
+**Why are bad passwords so common? Is this a problem with the users, or a problem with passwords as
+as a technology?**
 
 ### Purpose
 
-The purpose of this paper is to explore the negative aspects of password based authentication, and
-scratch the surface of possible alternatives. Are passwords a good form of authentication? Should we
-keep using passwords as authentication?
-
+People are generally bad at using good passwords[\[1\]][splashdata]. The purpose of this paper is to
+explore why that is the case, and explore the alternative forms of authentications.
 
 ### Previous studies
 
