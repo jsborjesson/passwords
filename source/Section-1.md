@@ -21,7 +21,7 @@ being able to switch out my passwords on 30 different accounts so quickly. I kne
 accounts she needed to change was going to cause her more trouble than all of mine - maybe password
 managers are not the perfect solution to this problem.
 
-Most non technical people will use the same password everywhere, and it will probably be a bad
+Many people will use the same password everywhere[\[6\]][paypal_australia], and it will probably be a bad
 password[\[1\]][splashdata]. We can try to educate people, making them aware that they need to
 think about security and that they should install extra software for keeping all of their passwords
 safe, but they just want to get into their accounts as smoothly as possible, and be confident that
@@ -53,22 +53,24 @@ implement as passwords.
 
 ### Sources
 
-[splashdata]: http://splashdata.com/press/worstpasswords2013.htm
-[gawker]:     http://blogs.wsj.com/digits/2010/12/13/the-top-50-gawker-media-passwords/
-[eset]:       http://blog.eset.se/statistics-about-yahoo-leak-of-450-000-plain-text-accounts/
-[oauth]:      http://oauth.net/
-[email_auth]: http://notes.xoxco.com/post/27999787765/is-it-time-for-password-less-login
+[splashdata]:      http://splashdata.com/press/worstpasswords2013.htm
+[gawker]:          http://blogs.wsj.com/digits/2010/12/13/the-top-50-gawker-media-passwords/
+[eset]:            http://blog.eset.se/statistics-about-yahoo-leak-of-450-000-plain-text-accounts/
+[oauth]:           http://oauth.net/
+[email_auth]:      http://notes.xoxco.com/post/27999787765/is-it-time-for-password-less-login
+[payal_australia]: https://www.paypal-media.com/assets/pdf/fact_sheet/cis_paypal_whitepaper_final.pdf
 
 [\[1\]        http://splashdata.com/press/worstpasswords2013.htm][splashdata]
 [\[2\]        http://blogs.wsj.com/digits/2010/12/13/the-top-50-gawker-media-passwords/][gawker]
 [\[3\]        http://blog.eset.se/statistics-about-yahoo-leak-of-450-000-plain-text-accounts/][eset]
 [\[4\]        http://oauth.net/][oauth]
 [\[5\]        http://notes.xoxco.com/post/27999787765/is-it-time-for-password-less-login][email_auth]
+[\[6\]        https://www.paypal-media.com/assets/pdf/fact_sheet/cis_paypal_whitepaper_final.pdf][payal_australia]
 
 <!-- TODO: FIX FORMATTING -->
 http://proxy.lnu.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=buh&AN=88140984&lang=sv&site=eds-live&scope=site
-\[6\]         Communications of the ACM. Feb2013, Vol. 56 Issue 2, p40-44. 5p. 1 Color Photograph, 2 Charts.
+\[7\]         Communications of the ACM. Feb2013, Vol. 56 Issue 2, p40-44. 5p. 1 Color Photograph, 2 Charts.
 http://proxy.lnu.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=buh&AN=50218716&lang=sv&site=eds-live&scope=site
-\[7\]         Behaviour & Information Technology. May/Jun2010, Vol. 29 Issue 3, p233-244. 12p. 1 Diagram, 2 Charts, 3 Graphs.
+\[8\]         Behaviour & Information Technology. May/Jun2010, Vol. 29 Issue 3, p233-244. 12p. 1 Diagram, 2 Charts, 3 Graphs.
 http://proxy.lnu.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=buh&AN=53529217&lang=sv&site=eds-live&scope=site
-\[8\]         Communications of the ACM. Sep2010, Vol. 53 Issue 9, p15-15. 1/4p.
+\[9\]         Communications of the ACM. Sep2010, Vol. 53 Issue 9, p15-15. 1/4p.
