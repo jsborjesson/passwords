@@ -18,12 +18,14 @@
     - I don't
     - I remember them all in my head
     - I use a password manager
-    - Other
+    - Other (text)
 - Do you find it difficult to keep track of all your passwords?
     - Yes
     - No
-- Do you use OAuth? ("Log in with Facebook/Twitter")
+- Do you use OAuth? ("Log in with Facebook/Twitter" and similar)
     - Yes
     - No
-- If yes, do you prefer it using over using passwords? Why?
+- If yes, do you prefer using it over using passwords? Why?
+    - (text)
+- Other related opinions
     - (text)
