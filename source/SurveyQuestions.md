@@ -1,4 +1,4 @@
-# Questions
+# Password usage survey
 
 ## Which type of computer user are you?
 
