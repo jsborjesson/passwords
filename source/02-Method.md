@@ -2,7 +2,8 @@
 
 I've decided to use a survey to broadly investigate how people manage passwords and how they feel
 about doing so. I've distributed the survey through Facebook to yield a somewhat statistically
-significant number of responses in a short period of time.
+significant number of responses in a short period of time. The questions that the survey consists of
+are shown below.
 
 ## Survey questions
 
@@ -61,8 +62,23 @@ significant number of responses in a short period of time.
 
 ## Method discussion
 
-The advantages to this method is that I get real world data, and since the purpose was to sample how
-people generally feel about passwords I believe that distributing it over Facebook sufficient
-considering the time frame. I also asked the participants to categorize themselves according to
-computer proficiency, this is so that if my Facebook friends tend to be more computer savvy people
-than usual, it will at least show up in the statistics.
+### Advantages
+
+Distributing an online survey via Facebook was a very simple and pain free process that yielded
+empirical, real world data quickly. I made sure that the survey was quick to finish and anonymous
+so that users would not be discouraged from participating. I also gave the participants a couple of
+optional text fields where they could express their opinions more freely. The purpose of them were
+to make sure that I hadn't missed something obvious and perhaps to get a feel for some more
+individual opinions, they will however not be considered to be part of the statistical data.
+
+### Disadvantages
+
+Since this was an anonymous participants has little to no incentive to answer honestly, and it is
+not unlikely that participants answer some questions in a way that pleases their self image even if
+it is anonymous.
+
+It was also possible to go through the form multiple times. That said, there is no gain in doing
+this other than pure spite, and as I've been following along with the rate responses have been
+coming in I have seen nothing that would indicate this, hence I'm going to assume that the answers I
+have received are valid.
+
