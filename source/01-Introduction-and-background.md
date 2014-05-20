@@ -52,7 +52,7 @@ future we might have access to more technology (like retina scanners, more accur
 recognition, et cetera), but today there does not seem to be an option that is as simple to
 implement as passwords.
 
-### Sources
+## Sources
 
 [splashdata]:      http://splashdata.com/press/worstpasswords2013.htm
 [gawker]:          http://blogs.wsj.com/digits/2010/12/13/the-top-50-gawker-media-passwords/
