@@ -67,9 +67,8 @@ are shown below.
 Distributing an online survey via Facebook was a very simple and pain free process that yielded
 empirical, real world data quickly. I made sure that the survey was quick to finish and anonymous
 so that users would not be discouraged from participating. I also gave the participants a couple of
-optional text fields where they could express their opinions more freely. The purpose of them were
-to make sure that I hadn't missed something obvious and perhaps to get a feel for some more
-individual opinions, they will however not be considered to be part of the statistical data.
+optional text fields where they could express their opinions more freely. The text fields may
+indicate some common behavior that was not directly part of the survey, and can lead to further research.
 
 ### Disadvantages
 
