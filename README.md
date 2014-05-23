@@ -36,6 +36,8 @@ request is opened where the entire section can be discussed. After this is finis
 discussed edits have been made, the pull request will be accepted and a new branch is created for
 the next section of the paper.
 
+To build the combined document, run `rake`.
+
 ## License
 
 **[CC By 4.0](http://creativecommons.org/licenses/by/4.0/)**

@@ -52,7 +52,7 @@ future we might have access to more technology (like retina scanners, more accur
 recognition, et cetera), but today there does not seem to be an option that is as simple to
 implement as passwords.
 
-### Sources
+## Sources
 
 [splashdata]:      http://splashdata.com/press/worstpasswords2013.htm
 [gawker]:          http://blogs.wsj.com/digits/2010/12/13/the-top-50-gawker-media-passwords/
@@ -68,10 +68,6 @@ implement as passwords.
 [\[5\]        http://notes.xoxco.com/post/27999787765/is-it-time-for-password-less-login][email_auth]
 [\[6\]        https://www.paypal-media.com/assets/pdf/fact_sheet/cis_paypal_whitepaper_final.pdf][payal_australia]
 
-<!-- TODO: FIX FORMATTING -->
-http://proxy.lnu.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=buh&AN=88140984&lang=sv&site=eds-live&scope=site
 \[7\]         Communications of the ACM. Feb2013, Vol. 56 Issue 2, p40-44. 5p. 1 Color Photograph, 2 Charts.
-http://proxy.lnu.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=buh&AN=50218716&lang=sv&site=eds-live&scope=site
 \[8\]         Behaviour & Information Technology. May/Jun2010, Vol. 29 Issue 3, p233-244. 12p. 1 Diagram, 2 Charts, 3 Graphs.
-http://proxy.lnu.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=buh&AN=53529217&lang=sv&site=eds-live&scope=site
 \[9\]         Communications of the ACM. Sep2010, Vol. 53 Issue 9, p15-15. 1/4p.
