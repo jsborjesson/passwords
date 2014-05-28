@@ -52,6 +52,10 @@ future we might have access to more technology (like retina scanners, more accur
 recognition, et cetera), but today there does not seem to be an option that is as simple to
 implement as passwords.
 
+## Keywords
+
+passwords, security, safety, authentication
+
 ## Sources
 
 [splashdata]:      http://splashdata.com/press/worstpasswords2013.htm
