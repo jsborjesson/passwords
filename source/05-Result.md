@@ -1,6 +1,7 @@
 ## Result
 
-All the answers are attached in the Survey answers section.
+All the answers are attached in the Survey answers section, they were collected in May 2014 from 65
+of my Facebook friends. The survey was anonymous.
 
 ### Summary
 
