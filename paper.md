@@ -85,9 +85,9 @@ experienced users who might not know about the tools that exist to simplify pass
 
 ### Disadvantages
 
-Since this was an anonymous participants has little to no incentive to answer honestly, and it is
-not unlikely that participants answer some questions in a way that pleases their self image even if
-it is anonymous.
+Since this was an anonymous survey, participants has little to no incentive to answer honestly, and
+it is not unlikely that participants answer some questions in a way that pleases their self image
+even if it is anonymous.
 
 It was also possible to go through the form multiple times. That said, there is no gain in doing
 this other than pure spite, and as I've been following along with the rate responses have been
