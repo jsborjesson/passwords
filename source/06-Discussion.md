@@ -5,9 +5,10 @@ expected more people to use password managers or even pen and paper (which was s
 alternative to the question) to remember their passwords.
 
 Even though 78% remember their passwords by heart, only 43% find it difficult to keep track of them.
-It would be interesting to see what the reason for this gap is, if it is because they use the same
-password for many things, that they just have a very good memory, that they are using some kind of
-system to memorize them, or perhaps using real phrases as passwords.
+I did not expect these numbers to differ so much, what is it that allows such a large portion of
+participants to remember their passwords with ease? Is it because they use the same password for
+many things, that they just have a very good memory, that they are using some kind of system to
+memorize them, or perhaps using real phrases as passwords?
 
 More than half of the participants do **not** use secure passwords, this sounds very worrying to me.
 That said, the specified definition of "generally using secure passwords" was very strictly
