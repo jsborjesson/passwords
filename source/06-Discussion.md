@@ -16,6 +16,17 @@ formulated in the question, which may have led to this number being higher than 
 Perhaps this question should have had more alternatives, or even have been divided into multiple
 questions.
 
+Since almost half of participants find it difficult to keep track of their passwords, I think it is
+fair to say that there is not a right way to do it that is immediately obvious. If a person does not
+wish to spend any time reflecting on how safe their passwords are, there is no simple right way to
+do it - I believe this is a problem with the technology. For those who are willing to spend some
+extra time on this, there are lots of alternatives to choose from, there are many different password
+managers out there (1Password, LastPass, KeePass, Clipperz, to name a few) that all make this
+easier, I have tried multiple alternatives myself, but I would not describe any of them as a simple
+and obvious solution - I did have to spend some time both deciding on which was the right fit for
+me, and then learning to use that tool. Indicated by how many people who finds it difficult today is
+that I'm not alone in my struggle to solve this problem.
+
 ### Further studies
 
 I'm not completely happy with the questions that I used in the survey, if I were to do it again I
