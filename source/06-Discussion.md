@@ -48,9 +48,12 @@ The question I regret not adding the most is "How many different passwords do yo
 have given a much better picture of the gap between how many accounts people have and how many of
 them share the same passwords.
 
-I would like to see numbers on how many people are aware of the existance of password managers but
+I would like to see numbers on how many people are aware of the existence of password managers but
 choose not to use them, perhaps people find it difficult to use password managers or are not aware
 of the possibility at all.
 
 It would of course be nice to have a much larger number of participants to get better statistical
 results, but it was not possible in the very limited time that this paper was written in.
+
+Perhaps the most interesting study to derive from this is to investigate **how well the alternatives
+measure up against passwords. Are they better? Which one is the best?**.
