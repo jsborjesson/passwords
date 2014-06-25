@@ -250,9 +250,11 @@ that I'm not alone in my struggle to solve this problem.
 I think that this is a problem that not every single computer user should need to figure out on her
 own. I've spent a lot of time figuring out my personal solution to this problem - way more time than
 someone with little interest in computers would be willing to spend. There are other solutions to
-this problem, such as using OAuth\[4\], email as authentication\[5\]\[10\], and it is not difficult
-imagining other alternatives, such as sending out SMS messages with temporary codes or even using
-voice recognition as authentication.
+this problem, such as using OAuth(which prevents you from having to remember another password, and
+often also from having to type it in again, since you tend to use services you rarely log out of for
+this)\[4\], email as authentication\[5\]\[10\], and it is not difficult imagining other
+alternatives, such as sending out SMS messages with temporary codes or even using voice recognition
+as authentication.
 
 We, developers, no longer **need** to use passwords as our go to method of authentication, and it
 makes the experience for our users more difficult than it needs to be. I think that this needs to
