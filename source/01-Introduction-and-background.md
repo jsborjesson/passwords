@@ -46,11 +46,12 @@ There has been many articles\[1\]\[2\]\[3\] that measure the type of
 passwords people use, but the general purpose seems to be to educate people to come use better
 passwords. This paper puts the responsibility on the developers instead.
 
-One common alternative to passwords is OAuth\[4\], but there has been some suggestions of
-other methods as well, like using email as authentication\[5\]. Of course in the
-future we might have access to more technology (like retina scanners, more accurate facial
-recognition, et cetera), but today there does not seem to be an option that is as simple to
-implement as passwords.
+One common technology is OAuth\[4\], which uses another account as authentication. This prevents you
+from having to remember yet another password, and often also from having to type it in again, since
+you tend to use services you rarely log out of for this. There has been some suggestions of other
+methods as well, like using email as authentication\[5\]. Of course in the future we might have
+access to more technology (like retina scanners, more accurate facial recognition, et cetera), but
+today there does not seem to be an option that is as simple to implement as passwords.
 
 ## Keywords
 
